@@ -1,7 +1,7 @@
-# [Módulo Boleto Itau Magento 2](https://loja.hexcommerce.com.br/modulo-boleto-itau-magento-2) 
+# [Módulo PIX C6 Magento 2](https://loja.hexcommerce.com.br/modulo-pix-c6-magento-2) 
  
 
-[Módulo Boleto Itau Magento 2](https://loja.hexcommerce.com.br/modulo-boleto-itau-magento-2), sem intermediário, integre sua loja magento com o banco Itau de forma fácil e prática.
+[Módulo PIX C6 Magento 2](https://loja.hexcommerce.com.br/modulo-pix-c6-magento-2), sem intermediário, integre sua loja magento com o banco C6 de forma fácil e prática.
 
 - Total compatibilidade com os principais checkouts do mercado.
 
